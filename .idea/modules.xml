@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaClient/EurekaClient.iml" filepath="$PROJECT_DIR$/EurekaClient/EurekaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceFeign/ServiceFeign.iml" filepath="$PROJECT_DIR$/ServiceFeign/ServiceFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceRibbon/ServiceRibbon.iml" filepath="$PROJECT_DIR$/ServiceRibbon/ServiceRibbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceZuul/ServiceZuul.iml" filepath="$PROJECT_DIR$/ServiceZuul/ServiceZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SheldonMicroService.iml" filepath="$PROJECT_DIR$/SheldonMicroService.iml" />
+    </modules>
+  </component>
+</project>
