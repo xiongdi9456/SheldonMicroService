@@ -15,6 +15,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/forezp/SpringcloudConfig/
-          search-paths: respo
+          uri: https://github.com/xiongdi9456/SheldonMicroService/
+          search-paths: remoteConfig
           default-label: master
