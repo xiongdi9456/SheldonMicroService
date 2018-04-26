@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/ServiceRibbon/pom.xml" />
         <option value="$PROJECT_DIR$/ServiceFeign/pom.xml" />
         <option value="$PROJECT_DIR$/ServiceZuul/pom.xml" />
+        <option value="$PROJECT_DIR$/ConfigServer/pom.xml" />
       </list>
     </option>
   </component>
